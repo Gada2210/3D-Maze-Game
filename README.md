@@ -1,0 +1,2 @@
+# 3D-Maze-Game
+The 3D Maze game project developed in Unity is an exciting exploration and navigation game where the player navigates through a procedurally generated maze environment. The primary objective of the player is to traverse the maze, collect coins placed at dead ends, and finally reach the exit to complete the game. The game provides an immersive experience with a first-person perspective, where players can move around and look in different directions using their mouse or gamepad controls.
